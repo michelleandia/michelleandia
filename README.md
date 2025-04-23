@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋🏽 Hi, I’m Michelle
 
-<!--
-**michelleandia/michelleandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Learning 7 modern languages in 7 weeks  
+💻 Focused on full-stack & creative tech at the moment 
+🛠 Languages: Java, Python, Rust, SQL, HTML/CSS/JS, TypeScript  
+🎯 Currently building: Access Kiosk mini project in Java  
+🧠 Long-term goal: Web-based creative tools & systems
 
-Here are some ideas to get you started:
+## 📈 My Progress So Far
+🚀 Week 1: Conditionals, Loops, Functions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 In Progress
+- [ ] Week 2: Data structures across languages
+- [ ] Add styled terminal-based UI to Access Kiosk
+
+---
+🧩 *Figuring it out one line at a time.*
